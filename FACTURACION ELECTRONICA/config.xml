@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+	<CompanyValue
+		key="DEFAULT"
+		ConnectionString="Data Source=EPSILON;Initial Catalog=EGSAAPP;Integrated Security=True"
+		RFC="EGA810729A85"
+		INTEGRATOR_ID ="6a4fe2e1-c8f1-426f-8229-82f39ec82d0f"
+		AltaIntegrador_ID = "1c6381f3-9731-4385-bd25-85a567d0511b">
+	</CompanyValue>
+
+	
+	<Paths PDFPath="L:\" XMLPath="L:\" QRCodePath="C:\EGSA\QRCODES\"></Paths>
+	<!--<Paths PDFPath="C:\EGSA\PDF\" XMLPath="C:\EGSA\XML\" QRCodePath="C:\EGSA\QRCODES\"></Paths>-->
+</Config>

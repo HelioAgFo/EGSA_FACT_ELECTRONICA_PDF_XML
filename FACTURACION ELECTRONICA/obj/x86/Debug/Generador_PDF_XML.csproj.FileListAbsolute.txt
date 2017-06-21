@@ -1,0 +1,25 @@
+c:\users\helio\documents\visual studio 2010\Projects\Generador_PDF_XML\Generador_PDF_XML\bin\Debug\Generador_PDF_XML.exe.config
+c:\users\helio\documents\visual studio 2010\Projects\Generador_PDF_XML\Generador_PDF_XML\bin\Debug\Generador_PDF_XML.exe
+c:\users\helio\documents\visual studio 2010\Projects\Generador_PDF_XML\Generador_PDF_XML\bin\Debug\Generador_PDF_XML.pdb
+c:\users\helio\documents\visual studio 2010\Projects\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.csprojResolveAssemblyReference.cache
+c:\users\helio\documents\visual studio 2010\Projects\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.Form1.resources
+c:\users\helio\documents\visual studio 2010\Projects\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.Properties.Resources.resources
+c:\users\helio\documents\visual studio 2010\Projects\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.csproj.GenerateResource.Cache
+c:\users\helio\documents\visual studio 2010\Projects\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.exe
+c:\users\helio\documents\visual studio 2010\Projects\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\Generador_PDF_XML\Generador_PDF_XML\bin\Debug\Generador_PDF_XML.exe.config
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\Generador_PDF_XML\Generador_PDF_XML\bin\Debug\Generador_PDF_XML.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\Generador_PDF_XML\Generador_PDF_XML\bin\Debug\Generador_PDF_XML.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.csprojResolveAssemblyReference.cache
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.Form1.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.Properties.Resources.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\Generador_PDF_XML\Generador_PDF_XML\obj\x86\Debug\Generador_PDF_XML.csproj.GenerateResource.Cache
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\bin\Debug\Generador_PDF_XML.exe.config
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\obj\x86\Debug\Generador_PDF_XML.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\Generador de pdf\obj\x86\Debug\Generador_PDF_XML.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\Generador_PDF_XML.exe.config
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\Generador_PDF_XML.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\Generador_PDF_XML.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.config

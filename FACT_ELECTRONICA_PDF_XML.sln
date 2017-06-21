@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FACT_ELECTRONICA_PDF_XML", "FACTURACION ELECTRONICA\FACT_ELECTRONICA_PDF_XML.csproj", "{0029D5A7-F607-4E97-B7CB-CC3DD1330F28}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SETUP_FACTURA_ELECTRONICA_PDF_XML-CFDI", "CFDI PROJECT\CFDI PROJECT.vdproj", "{81D001C9-B157-4D81-96BF-91107D95CC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0029D5A7-F607-4E97-B7CB-CC3DD1330F28}.Debug|x86.ActiveCfg = Debug|x86
+		{0029D5A7-F607-4E97-B7CB-CC3DD1330F28}.Debug|x86.Build.0 = Debug|x86
+		{0029D5A7-F607-4E97-B7CB-CC3DD1330F28}.Release|x86.ActiveCfg = Release|x86
+		{0029D5A7-F607-4E97-B7CB-CC3DD1330F28}.Release|x86.Build.0 = Release|x86
+		{81D001C9-B157-4D81-96BF-91107D95CC4F}.Debug|x86.ActiveCfg = Debug
+		{81D001C9-B157-4D81-96BF-91107D95CC4F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

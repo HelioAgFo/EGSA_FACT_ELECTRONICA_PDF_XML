@@ -1,0 +1,163 @@
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.config
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Properties.Resources.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csproj.GenerateResource.Cache
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Forms.Error.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Main.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.rpt
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.Designer.cs
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.cs
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsc
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsd
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xss
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\Reports\cfdv32_EGSA.xsd
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Debug\config.xml
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csprojResolveAssemblyReference.cache
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.config
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\config.xml
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.rpt
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.Designer.cs
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.cs
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsc
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsd
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xss
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\cfdv32_EGSA.xsd
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csprojResolveAssemblyReference.cache
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Forms.Error.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Properties.Resources.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csproj.GenerateResource.Cache
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Administrador_CFDI.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Main.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_CFDI_Process_Manager.resources
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.config
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\config.xml
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.rpt
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.Designer.cs
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.cs
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsc
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsd
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xss
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\cfdv32_EGSA.xsd
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Administrador_CFDI.resources
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Forms.Error.resources
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Main.resources
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_CFDI_Process_Manager.resources
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Properties.Resources.resources
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\Public\Documents\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.config
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\config.xml
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.rpt
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.Designer.cs
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.cs
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsc
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsd
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xss
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\cfdv32_EGSA.xsd
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csprojResolveAssemblyReference.cache
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Administrador_CFDI.resources
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Forms.Error.resources
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Main.resources
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_CFDI_Process_Manager.resources
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Properties.Resources.resources
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csproj.GenerateResource.Cache
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\rgarcia.NET\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.config
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\config.xml
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.rpt
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.Designer.cs
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.cs
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsc
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsd
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xss
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\cfdv32_EGSA.xsd
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csprojResolveAssemblyReference.cache
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Administrador_CFDI.resources
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Forms.Error.resources
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Main.resources
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_CFDI_Process_Manager.resources
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Properties.Resources.resources
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csproj.GenerateResource.Cache
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia\Google Drive\Visual Studio 2010\Projects\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.application
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\config.xml
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.rpt
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.Designer.cs
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.cs
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsc
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsd
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xss
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\Reports\cfdv32_EGSA.xsd
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.config
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.application
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.Shared.dll
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csprojResolveAssemblyReference.cache
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Administrador_CFDI.resources
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Forms.Error.resources
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Main.resources
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_CFDI_Process_Manager.resources
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Properties.Resources.resources
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csproj.GenerateResource.Cache
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.application
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe
+C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.config
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.pdb

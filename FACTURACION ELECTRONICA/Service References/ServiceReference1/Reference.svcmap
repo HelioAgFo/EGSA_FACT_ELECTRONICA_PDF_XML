@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bdd77b81-15fe-4215-8d2e-f937be089392" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://servicios.ecodex.com.mx:4043/ServicioTimbrado.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicioTimbrado.xsd" MetadataType="Schema" ID="de5e3a81-2868-4ed2-aa0b-52456bd2f7fb" SourceId="1" SourceUrl="https://servicios.ecodex.com.mx:4043/ServicioTimbrado.svc?xsd=xsd1" />
+    <MetadataFile FileName="Timbrado.wsdl" MetadataType="Wsdl" ID="200d4c80-4cbd-477d-8ab5-f776c78ad4ef" SourceId="1" SourceUrl="https://servicios.ecodex.com.mx:4043/ServicioTimbrado.svc?wsdl" />
+    <MetadataFile FileName="ServicioTimbrado.disco" MetadataType="Disco" ID="ce36a4d7-c1e9-4b72-8172-d3ecb8e819a8" SourceId="1" SourceUrl="https://servicios.ecodex.com.mx:4043/ServicioTimbrado.svc?disco" />
+    <MetadataFile FileName="ServicioTimbrado1.xsd" MetadataType="Schema" ID="eac813e7-f775-4b2e-82c8-e7712c90ff3a" SourceId="1" SourceUrl="https://servicios.ecodex.com.mx:4043/ServicioTimbrado.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

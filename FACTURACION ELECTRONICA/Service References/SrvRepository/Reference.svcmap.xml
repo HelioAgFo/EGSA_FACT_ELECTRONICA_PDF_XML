@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b1c8f1c4-e496-4b2b-b031-2c5c181899c0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://pruebas.ecodex.com.mx:2045/ServicioRepositorio.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicioRepositorio1.disco" MetadataType="Disco" ID="54df4db3-ef70-48db-ab27-c52829feec79" SourceId="1" SourceUrl="https://pruebas.ecodex.com.mx:2045/ServicioRepositorio.svc?disco" />
+    <MetadataFile FileName="Repositorio1.wsdl" MetadataType="Wsdl" ID="fe686169-6761-4c96-9b9d-f53fd077ad5a" SourceId="1" SourceUrl="https://pruebas.ecodex.com.mx:2045/ServicioRepositorio.svc?wsdl" />
+    <MetadataFile FileName="ServicioRepositorio2.xsd" MetadataType="Schema" ID="f3549f02-51f7-427b-9642-fd00f9c17516" SourceId="1" SourceUrl="https://pruebas.ecodex.com.mx:2045/ServicioRepositorio.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicioRepositorio21.xsd" MetadataType="Schema" ID="be732112-c4de-4839-9532-792bbfe9be3d" SourceId="1" SourceUrl="https://pruebas.ecodex.com.mx:2045/ServicioRepositorio.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,24 @@
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\FACTURACION ELECTRÓNICA.exe.config
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\Reports\CFDIEGSA.rpt
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\DataSets\cfdv32_EGSA.Designer.cs
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\Reports\CFDIEGSA.cs
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\DataSets\cfdv32_EGSA.xsc
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\DataSets\cfdv32_EGSA.xsd
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\DataSets\cfdv32_EGSA.xss
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\Reports\cfdv32_EGSA.xsd
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\FACTURACION ELECTRÓNICA.pdb
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Release\FACT_ELECTRONICA_PDF_XML.csprojResolveAssemblyReference.cache
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Release\FACT_ELECTRONICA_PDF_XML.Forms.Error.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Release\FACT_ELECTRONICA_PDF_XML.Main.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Release\FACT_ELECTRONICA_PDF_XML.Properties.Resources.resources
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Release\FACT_ELECTRONICA_PDF_XML.csproj.GenerateResource.Cache
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Release\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Release\FACTURACION ELECTRÓNICA.application
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Release\FACTURACION ELECTRÓNICA.exe
+C:\Users\rgarcia\Documents\Visual Studio 2010\Projects\FACTURACION ELECTRONICA\obj\x86\Release\FACTURACION ELECTRÓNICA.pdb

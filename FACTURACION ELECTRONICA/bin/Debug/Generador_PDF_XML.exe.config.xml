@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<configuration>
+<configSections>
+</configSections>
+<connectionStrings>
+    <add name="Generador_PDF_XML.Properties.Settings.MARESAAPPConnectionString"
+        connectionString="Data Source=GTESISTEMASBI;Initial Catalog=MARESAAPP;Integrated Security=True"
+        providerName="System.Data.SqlClient" />
+</connectionStrings>
+	<startup useLegacyV2RuntimeActivationPolicy ="true"><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup></configuration>

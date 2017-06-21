@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<configuration>
+	<configSections>
+	</configSections>
+	<appSettings>
+		<add key="XMLRoot" value="C:\EGSA\XML\"/>
+		<add key="XMLTemp" value="%temp%\"/>
+		<add key="ConnectionString" value="Data Source=gtesistemasbi;Initial Catalog=EGSAAPP;Integrated Security=True"/>
+	</appSettings>
+
+	<connectionStrings>
+  <add name="Generador_PDF_XML.Properties.Settings.MARESAAPPConnectionString"
+   connectionString="Data Source=GTESISTEMASBI;Initial Catalog=MARESAAPP;Integrated Security=True"
+   providerName="System.Data.SqlClient" />
+  <add name="FACT_ELECTRONICA_PDF_XML.Properties.Settings.MARESAAPPConnectionString"
+   connectionString="Data Source=HELIO_AGUILAR;Initial Catalog=MARESAAPP;Integrated Security=True"
+   providerName="System.Data.SqlClient" />
+  <add name="FACT_ELECTRONICA_PDF_XML.Properties.Settings.cfdv32_EGSAConnectionString"
+   connectionString="Data Source=GTESISTEMASBI;Initial Catalog=cfdv32_EGSA;Integrated Security=True"
+   providerName="System.Data.SqlClient" />
+ </connectionStrings>
+	<startup useLegacyV2RuntimeActivationPolicy="true" ><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup><system.serviceModel>
+  <bindings>
+   <basicHttpBinding>
+    <binding name="PuertoCancelacionSeguro" closeTimeout="00:03:00"
+     openTimeout="00:03:00" receiveTimeout="00:10:00" sendTimeout="00:03:00"
+     allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="8192" maxArrayLength="16384"
+      maxBytesPerRead="4096" maxNameTableCharCount="16384" />
+     <security mode="Transport">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoCancelacion" closeTimeout="00:03:00" openTimeout="00:03:00"
+     receiveTimeout="00:10:00" sendTimeout="00:03:00" allowCookies="false"
+     bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxReceivedMessageSize="65536" textEncoding="utf-8"
+     useDefaultWebProxy="false" messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="8192" maxArrayLength="16384"
+      maxBytesPerRead="4096" maxNameTableCharCount="16384" />
+     <security mode="None">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoClientesSeguro" closeTimeout="00:03:00"
+     openTimeout="00:03:00" receiveTimeout="00:10:00" sendTimeout="00:03:00"
+     allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="8192" maxArrayLength="16384"
+      maxBytesPerRead="4096" maxNameTableCharCount="16384" />
+     <security mode="Transport">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoClientes" closeTimeout="00:03:00" openTimeout="00:03:00"
+     receiveTimeout="00:10:00" sendTimeout="00:03:00" allowCookies="false"
+     bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="65536" maxArrayLength="16384"
+      maxBytesPerRead="4096" maxNameTableCharCount="16384" />
+     <security mode="None">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoComprobantesSeguro" closeTimeout="00:03:00"
+     openTimeout="00:03:00" receiveTimeout="00:10:00" sendTimeout="00:03:00"
+     allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="316384" maxArrayLength="316384"
+      maxBytesPerRead="316384" maxNameTableCharCount="316384" />
+     <security mode="Transport">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoComprobantes" closeTimeout="00:03:00" openTimeout="00:03:00"
+     receiveTimeout="00:10:00" sendTimeout="00:03:00" allowCookies="false"
+     bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="316384" maxArrayLength="316384"
+      maxBytesPerRead="316384" maxNameTableCharCount="316384" />
+     <security mode="None">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoRepositorioSeguro" closeTimeout="00:03:00"
+     openTimeout="00:03:00" receiveTimeout="00:10:00" sendTimeout="00:03:00"
+     allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="116384" maxArrayLength="116384"
+      maxBytesPerRead="116384" maxNameTableCharCount="116384" />
+     <security mode="Transport">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoRepositorio" closeTimeout="00:03:00" openTimeout="00:03:00"
+     receiveTimeout="00:10:00" sendTimeout="00:03:00" allowCookies="false"
+     bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="116384" maxArrayLength="116384"
+      maxBytesPerRead="116384" maxNameTableCharCount="116384" />
+     <security mode="None">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoSeguridadSeguro" closeTimeout="00:03:00"
+     openTimeout="00:03:00" receiveTimeout="00:10:00" sendTimeout="00:03:00"
+     allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="116384" maxArrayLength="116384"
+      maxBytesPerRead="116384" maxNameTableCharCount="116384" />
+     <security mode="Transport">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoSeguridad" closeTimeout="00:03:00" openTimeout="00:03:00"
+     receiveTimeout="00:10:00" sendTimeout="00:03:00" allowCookies="false"
+     bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="116384" maxArrayLength="116384"
+      maxBytesPerRead="116384" maxNameTableCharCount="116384" />
+     <security mode="None">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoTimbradoSeguro" closeTimeout="00:03:00"
+     openTimeout="00:03:00" receiveTimeout="00:10:00" sendTimeout="00:03:00"
+     allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxReceivedMessageSize="65536" textEncoding="utf-8"
+     useDefaultWebProxy="false" messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="316384" maxArrayLength="316384"
+      maxBytesPerRead="316384" maxNameTableCharCount="316384" />
+     <security mode="Transport">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+    <binding name="PuertoTimbrado" closeTimeout="00:03:00" openTimeout="00:03:00"
+     receiveTimeout="00:10:00" sendTimeout="00:03:00" allowCookies="false"
+     bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+     maxBufferPoolSize="524288" maxBufferSize="65536" maxReceivedMessageSize="65536"
+     textEncoding="utf-8" transferMode="Buffered" useDefaultWebProxy="false"
+     messageEncoding="Text">
+     <readerQuotas maxDepth="32" maxStringContentLength="316384" maxArrayLength="316384"
+      maxBytesPerRead="316384" maxNameTableCharCount="316384" />
+     <security mode="None">
+      <transport clientCredentialType="None" proxyCredentialType="None"
+       realm="" />
+      <message clientCredentialType="UserName" algorithmSuite="Default" />
+     </security>
+    </binding>
+   </basicHttpBinding>
+  </bindings>
+  <client>
+   <endpoint address="https://wsdexpruebas.ecodex.com.mx:2045/ServicioCancelacion.svc"
+    binding="basicHttpBinding" bindingConfiguration="PuertoCancelacionSeguro"
+    contract="SrvCancelacion.Cancelaciones" name="PuertoCancelacionSeguro" />
+   
+   <endpoint address="https://wsdexpruebas.ecodex.com.mx:2045/ServicioClientes.svc"
+    binding="basicHttpBinding" bindingConfiguration="PuertoClientesSeguro"
+    contract="SrvClients.Clientes" name="PuertoClientesSeguro" />
+   
+   <endpoint address="https://wsdexpruebas.ecodex.com.mx:2045/ServicioComprobantes.svc"
+    binding="basicHttpBinding" bindingConfiguration="PuertoComprobantesSeguro"
+    contract="SrvInvoices.Comprobantes" name="PuertoComprobantesSeguro" />
+   
+   <endpoint address="https://wsdexpruebas.ecodex.com.mx:2045/ServicioRepositorio.svc"
+    binding="basicHttpBinding" bindingConfiguration="PuertoRepositorioSeguro"
+    contract="SrvRepository.Repositorio" name="PuertoRepositorioSeguro" />
+   
+   <endpoint address="https://wsdexpruebas.ecodex.com.mx:2045/ServicioSeguridad.svc"
+    binding="basicHttpBinding" bindingConfiguration="PuertoSeguridadSeguro"
+    contract="SrvSecurity.Seguridad" name="PuertoSeguridadSeguro" />
+   
+   <endpoint address="https://wsdexpruebas.ecodex.com.mx:2045/ServicioTimbrado.svc"
+    binding="basicHttpBinding" bindingConfiguration="PuertoTimbradoSeguro"
+    contract="SrvTimbrado.Timbrado" name="PuertoTimbradoSeguro" />
+
+  </client>
+ </system.serviceModel>
+</configuration>
