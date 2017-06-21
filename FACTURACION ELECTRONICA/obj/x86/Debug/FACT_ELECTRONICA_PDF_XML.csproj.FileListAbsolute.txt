@@ -161,3 +161,27 @@ C:\temp\CFDI\CFDI PROJECT\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELEC
 C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.config
 C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe
 C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Administrador_CFDI.resources
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Forms.Error.resources
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_Main.resources
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.form_CFDI_Process_Manager.resources
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.Properties.Resources.resources
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACT_ELECTRONICA_PDF_XML.csproj.GenerateResource.Cache
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\config.xml
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.rpt
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.Designer.cs
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\Reports\CFDIEGSA.cs
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsc
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xsd
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\DataSets\cfdv32_EGSA.xss
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\Reports\cfdv32_EGSA.xsd
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.application
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.exe
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\FACTURACION ELECTRÓNICA.pdb
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\bin\Debug\stdole.dll
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.exe.manifest
+C:\Users\helioefrain\Documents\Visual Studio 2015\Projects\CFDI PROJECT EGSA\FACTURACION ELECTRONICA\obj\x86\Debug\FACTURACION ELECTRÓNICA.application

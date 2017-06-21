@@ -222,14 +222,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FACTURACION ELECTRÓNICA.exe" size="4192768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FACTURACION ELECTRÓNICA.exe" size="4186624">
       <assemblyIdentity name="FACTURACION ELECTRÓNICA" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>VZsAgUsF5EQxcPrBdaOYdDy9QP0=</dsig:DigestValue>
+        <dsig:DigestValue>f0n2gi1IXM05IDYGV6g4++4APnI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -246,14 +246,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stdole.dll" size="22344">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="stdole.dll" size="16384">
       <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>JPB8qFfxcBIyYYsruWie6tPsG8M=</dsig:DigestValue>
+        <dsig:DigestValue>umKzfUIzuIlI/cL/7QjzyC6GJ/E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -266,13 +266,13 @@
       <dsig:DigestValue>vYbmwcAP7omWmQkPoqydjbPPgxg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="config.xml" size="529" writeableType="applicationData">
+  <file name="config.xml" size="627" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>dNiQ1YWbtpE69HvKKVzKUE9IKz8=</dsig:DigestValue>
+      <dsig:DigestValue>31+d1OvuJb1AQRxxmbV0lIuBvig=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FACTURACION ELECTRÓNICA.exe.config" size="14912">

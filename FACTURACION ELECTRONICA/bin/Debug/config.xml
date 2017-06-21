@@ -9,6 +9,7 @@
 	</CompanyValue>
 
 	
-	<Paths PDFPath="L:\" XMLPath="L:\" QRCodePath="C:\EGSA\QRCODES\"></Paths>
+	<!--Paths PDFPath="L:\" XMLPath="L:\" QRCodePath="C:\EGSA\QRCODES\"></Paths-->
+  <Paths PDFPath="C:\Facturas" XMLPath="C:\Facturas" QRCodePath="C:\EGSA\QRCODES\"></Paths>
 	<!--<Paths PDFPath="C:\EGSA\PDF\" XMLPath="C:\EGSA\XML\" QRCodePath="C:\EGSA\QRCODES\"></Paths>-->
 </Config>
